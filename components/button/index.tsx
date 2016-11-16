@@ -8,8 +8,6 @@ export default class Button extends React.Component<tsProps, any> {
     pressIn: false,
     size: 'large',
     disabled: false,
-    inline: false,
-    loading: false,
     activeStyle: {},
     onClick: (_x: any) => {
     },
